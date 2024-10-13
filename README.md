@@ -1,5 +1,5 @@
 # Onionweb
-## My Hidden Service Website
+
 This simple project shows how to host a website as a Tor hidden service. It uses [Apache] and is accessible via the Tor network.
 
 Use Tor Browser to Access the Onion URL:
