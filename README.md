@@ -1,2 +1,2 @@
 # Onionweb
-A website to host in onion domain
+Web Project to host in .onion 
